@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisAhearn
-- 👀 I’m interested in BJJ and Crypto
+- 👀 I’m interested in BJJ and music
 - 🌱 I’m currently learning responsive web design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: christophermahearn@gmail.com
