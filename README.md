@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisAhearn
 - 👀 I’m interested in BJJ and music
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: christophermahearn@gmail.com
 
